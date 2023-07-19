@@ -1,0 +1,14 @@
+h1{
+  color: red;
+  text-align: center;
+}
+.contenedor{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.boton{
+  margin: 10px;
+
+}
